@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ilikkako. Construction Architect from Finland. 
-- 👀 I’m interested in programming and playing games, music and sports.
-- 🌱 I’m studying programming and game creation with Python and Godot. 
+- 👀 I’m interested in programming and playing video games, music and sports.
+- 🌱 I’m just starting to study OSSU curriculum for computer science. 
 - 💞️ At the moment I am not looking for collaborations. I am doing my personal solo project.
 - 📫 You can reach me here in github or by email: ipilowe@gmail.com
 
