@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ilkkako. Construction Architect from Finland. 
 - 👀 I’m interested in programming and playing video games, music and sports.
 - 🌱 I’m just starting to study OSSU curriculum for computer science. 
-- 💞️ At the moment I am not looking for collaborations. I am doing my personal solo project.
+- 💞️ At the moment I am not looking for collaborations. I am doing my personal solo projects.
 - 📫 You can reach me here in github or by email: ipilowe@gmail.com
 
 <!---
